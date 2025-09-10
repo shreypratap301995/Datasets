@@ -37,8 +37,8 @@
 -----
 
 Follow me on:
-- [LinkedIn](https://www.linkedin.com/in/ashish-jangra/)
-- [GitHub](https://github.com/AshishJangra27)
-- [Kaggle](https://www.kaggle.com/ashishjangra27)
+- [LinkedIn](https://www.linkedin.com/in/shrey-sisodiya/)
+- [GitHub](https://github.com/shreypratap301995)
+- [Kaggle](https://www.kaggle.com/shreysisodiya)
 
 Stay updated with my latest content and projects! Your support helps me create more valuable resources for everyone.
